@@ -5,4 +5,4 @@ const App = ({ title }) =>
  
 export default App;
 
-console.log("hellllllllllo");
+console.log("hello");
